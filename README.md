@@ -9,5 +9,5 @@ Exercices d'applications pour prendre en main Git et GitHub, présentant briève
 - HTML
 - CSS
 - JavaScript
-- 
+  
 ## Comment Contribuer
