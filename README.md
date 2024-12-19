@@ -6,6 +6,8 @@ Exercices d'applications pour prendre en main Git et GitHub, présentant briève
 - Créer une petite application web pour présenter l'EPO.
 
 ## Technologies Utilisées
-
-
+- HTML
+- CSS
+- JavaScript
+- 
 ## Comment Contribuer
