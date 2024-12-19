@@ -11,3 +11,8 @@ Exercices d'applications pour prendre en main Git et GitHub, présentant briève
 - JavaScript
   
 ## Comment Contribuer
+Pour contribuer à ce projet, veuillez suivre les instructions suivantes :
+1. Clonez le répertoire sur votre machine locale.
+2. Créez une branche pour chaque nouvelle fonctionnalité ou correction.
+3. Poussez vos branches et créez une Pull Request pour la fusion.
+Merci pour votre contribution à ce projet éducatif !
